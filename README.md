@@ -32,6 +32,7 @@ Authorship of this project required skillful weaving of ___all___ of the followi
 * Collection and incorporation of feedback from
   * Organization: alignment with strategic goals, style guidelines, test runs, etc.
   * Learner: experience with the course interface and content, assessment and other metrics, etc.
+* Managing organizational and individual training plans
 * Ongoing improvement of learning structure
 
 ## Skills Used in This Project
